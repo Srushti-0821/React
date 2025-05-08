@@ -1,0 +1,43 @@
+/* Light Theme */
+.light-theme {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.light-theme-navbar {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+}
+
+/* Dark Theme */
+.dark-theme {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.dark-theme .card {
+    background-color: #1e1e1e;
+    color: #ffffff;
+}
+
+.light-theme .card {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+/* Navbar theme styles */
+.light-theme-navbar {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+}
+
+.dark-theme-navbar {
+    background-color: #1e1e1e !important;
+    color: #ffffff !important;
+}
+
+.custom-navbar .nav-link,
+.custom-navbar .navbar-brand,
+.custom-navbar .dropdown-item {
+    color: inherit !important;
+}
